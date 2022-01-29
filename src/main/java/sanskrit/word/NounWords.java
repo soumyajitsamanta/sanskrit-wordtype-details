@@ -1,11 +1,11 @@
 /**
   Copyright 2022 Soumyajit Samanta github:soumyajitsamanta
 */
-package com.sanskrit;
+package sanskrit.word;
 
-import com.sanskrit.enums.KarakTypes;
-import com.sanskrit.enums.LingTypes;
-import com.sanskrit.enums.VachanTypes;
+import sanskrit.word.enums.KarakTypes;
+import sanskrit.word.enums.LingTypes;
+import sanskrit.word.enums.VachanTypes;
 
 public class NounWords {
     String root;

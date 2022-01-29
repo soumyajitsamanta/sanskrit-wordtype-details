@@ -1,7 +1,7 @@
 /**
   Copyright 2022 Soumyajit Samanta github:soumyajitsamanta
 */
-package com.sanskrit.enums;
+package sanskrit.word.enums;
 
 public enum VachanTypes {
     EK_VACHAN("एकवचन", "Singular"), DWI_VACHAN("द्विवचन", "Dual"),
