@@ -1,3 +1,6 @@
+/**
+  Copyright 2022 Soumyajit Samanta github:soumyajitsamanta
+*/
 package com.sanskrit;
 
 import com.sanskrit.enums.KarakTypes;
