@@ -1,4 +1,4 @@
-package com.sanskrit.bean;
+package sanskrit.word.bean;
 
 public class WordAnalysisBean {
     private String vibhakti;

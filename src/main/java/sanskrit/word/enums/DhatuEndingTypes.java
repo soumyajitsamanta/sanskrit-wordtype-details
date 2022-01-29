@@ -1,7 +1,7 @@
 /**
   Copyright 2022 Soumyajit Samanta github:soumyajitsamanta
 */
-package com.sanskrit.enums;
+package sanskrit.word.enums;
 
 public enum DhatuEndingTypes {
     AATMANEPADA("आत्मनेपद", "Action for self"),

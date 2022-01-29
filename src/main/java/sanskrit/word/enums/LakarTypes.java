@@ -1,7 +1,7 @@
 /**
   Copyright 2022 Soumyajit Samanta github:soumyajitsamanta
 */
-package com.sanskrit.enums;
+package sanskrit.word.enums;
 
 public enum LakarTypes {
     LAT("लट्", "वर्तमान काल", "Present Tense"),

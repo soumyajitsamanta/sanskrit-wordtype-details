@@ -1,7 +1,7 @@
 /**
   Copyright 2022 Soumyajit Samanta github:soumyajitsamanta
 */
-package com.sanskrit.enums;
+package sanskrit.word.enums;
 
 public enum LingTypes {
     PULLING("पुल्लिंग", "masculine"), STRILING("स्त्रिलिंग", "feminine"),

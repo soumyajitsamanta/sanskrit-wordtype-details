@@ -1,4 +1,4 @@
-package com.sanskrit;
+package sanskrit.word;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -7,11 +7,11 @@ import java.nio.charset.StandardCharsets;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
 
-import com.sanskrit.enums.KarakTypes;
-import com.sanskrit.enums.LakarTypes;
-import com.sanskrit.enums.LingTypes;
-import com.sanskrit.enums.PurushTypes;
-import com.sanskrit.enums.VachanTypes;
+import sanskrit.word.enums.KarakTypes;
+import sanskrit.word.enums.LakarTypes;
+import sanskrit.word.enums.LingTypes;
+import sanskrit.word.enums.PurushTypes;
+import sanskrit.word.enums.VachanTypes;
 
 public class WordExamples {
     VerbWord v = new VerbWord("", LakarTypes.LAT, null, null);
